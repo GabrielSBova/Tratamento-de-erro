@@ -1,0 +1,18 @@
+C:\Users\Aluno\source\repos\tratamento-erro\tratamento-erro\obj\Debug\tratamento-erro.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\tratamento-erro\tratamento-erro\obj\Debug\tratamento_erro.txt1.resources
+C:\Users\Aluno\source\repos\tratamento-erro\tratamento-erro\obj\Debug\tratamento_erro.Properties.Resources.resources
+C:\Users\Aluno\source\repos\tratamento-erro\tratamento-erro\obj\Debug\tratamento-erro.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\tratamento-erro\tratamento-erro\bin\Debug\tratamento-erro.exe.config
+C:\Users\Aluno\source\repos\tratamento-erro\tratamento-erro\bin\Debug\tratamento-erro.exe
+C:\Users\Aluno\source\repos\tratamento-erro\tratamento-erro\bin\Debug\tratamento-erro.pdb
+C:\Users\Aluno\source\repos\tratamento-erro\tratamento-erro\obj\Debug\tratamento-erro.exe
+C:\Users\Aluno\source\repos\tratamento-erro\tratamento-erro\obj\Debug\tratamento-erro.pdb
+C:\Users\Gabriel Bova\source\repos\3eminfo\tratamento-erro\tratamento-erro\bin\Debug\tratamento-erro.exe.config
+C:\Users\Gabriel Bova\source\repos\3eminfo\tratamento-erro\tratamento-erro\bin\Debug\tratamento-erro.exe
+C:\Users\Gabriel Bova\source\repos\3eminfo\tratamento-erro\tratamento-erro\bin\Debug\tratamento-erro.pdb
+C:\Users\Gabriel Bova\source\repos\3eminfo\tratamento-erro\tratamento-erro\obj\Debug\tratamento-erro.csprojAssemblyReference.cache
+C:\Users\Gabriel Bova\source\repos\3eminfo\tratamento-erro\tratamento-erro\obj\Debug\tratamento_erro.txt1.resources
+C:\Users\Gabriel Bova\source\repos\3eminfo\tratamento-erro\tratamento-erro\obj\Debug\tratamento_erro.Properties.Resources.resources
+C:\Users\Gabriel Bova\source\repos\3eminfo\tratamento-erro\tratamento-erro\obj\Debug\tratamento-erro.csproj.GenerateResource.cache
+C:\Users\Gabriel Bova\source\repos\3eminfo\tratamento-erro\tratamento-erro\obj\Debug\tratamento-erro.exe
+C:\Users\Gabriel Bova\source\repos\3eminfo\tratamento-erro\tratamento-erro\obj\Debug\tratamento-erro.pdb
